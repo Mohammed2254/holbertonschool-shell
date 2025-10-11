@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "===Env==="; printenv; echo "===Local==="; set; echo "===Functions==="; declare -f
